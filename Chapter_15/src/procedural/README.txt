@@ -1,0 +1,1 @@
+This is a more procedural oriented solution to the Blackjack game.
